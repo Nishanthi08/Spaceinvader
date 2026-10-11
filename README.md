@@ -1,4 +1,4 @@
-# Text-to-Speech Converter 🔊📝
+⁵# Text-to-Speech Converter 🔊📝
 
 A single-screen Android app, built with **MIT App Inventor**, that converts any text a user types into spoken audio using the device's built-in text-to-speech engine.
 
@@ -46,7 +46,7 @@ A single-screen Android app, built with **MIT App Inventor**, that converts any 
 
 ## Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](PDFReader_Convert_20261011_185047_1.jpg)
 
 *The app interface showing the text input field and Speak button.*
 
